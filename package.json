@@ -6,9 +6,6 @@
     "start": "next start",
     "lint": "next lint"
   },
-  "rules": {
-    "@typescript-eslint/no-unused-vars": "off"
-  },
   "dependencies": {
     "@heroicons/react": "^2.1.4",
     "@tailwindcss/forms": "^0.5.7",
