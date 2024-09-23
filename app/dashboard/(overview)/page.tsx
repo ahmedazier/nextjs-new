@@ -21,7 +21,7 @@ export default async function Page() {
     <main>
         <div className="flex w-full items-center justify-between">
             <h1 className={`${lusitana.className} mb-4 text-xl md:text-2xl`}>
-                Dashboard V-2
+                Dashboard V-3
             </h1>
             <div className="mb-4 text-xl md:text-2xl">
                 <form
